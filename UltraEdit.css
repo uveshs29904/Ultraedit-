@@ -1,0 +1,138 @@
+   body{
+    margin: 0;
+    padding: 0;
+   }       
+   img{
+    margin:0;
+    padding:0;
+    padding-right: 1px;
+    height:100px;
+    width: 130px;
+   }
+   .hed1{
+    display:flex;
+    background-color: black;
+            color: azure;
+    margin-top: 80px;
+    padding: 0;
+   }
+   
+   
+    .hd3{
+        display:flex;
+        align-items:flex-start;
+
+    }
+   
+   .head1{
+    color:aliceblue;
+    font-style:italic;
+    margin-top: 40px;
+    padding:0;
+    font-size: 24px;
+   }
+   .head2{
+    color:aliceblue;
+    font-style:italic;
+    margin-top: 60px;
+    
+    padding:0;
+    font-size: 14px;
+   }
+    ul{
+    display: flex;
+    align-items: center;
+    justify-content: flex-end;
+    list-style: none;
+    padding-inline-start: 900px;
+    
+
+   }
+   li{
+    padding-right: 30px;
+    padding-left: 0;
+
+   }
+   
+   li img{
+    height: 50px;
+    width: 50px;
+    display: flex;
+    justify-items: flex-end;
+   }
+   a{
+    color:aliceblue;
+   }
+   .hd1{
+    color:aliceblue;
+    font-style:italic;
+    margin-top: 90px;
+    padding-right: 10px;
+    
+    font-size: 30px;
+   
+   }
+   .hd2{
+    color:aliceblue;
+    margin-top: 200px;
+    padding: 0;
+    
+    /* margin-top: 500px; */
+    
+    padding:0;
+    font-size: 22px;
+   }
+   button{
+    height: 40px;
+    width:220px;
+   }
+   .btn1{
+    background-color:rgb(42, 245, 245);
+    border: 2px solid white;
+   }
+   .btn2{
+    margin-top: 50px;
+    border: 2px solid white;
+
+   }
+    .hd4{
+      margin: inline start 300px;
+      padding-left: 150px;
+      height: 300px;
+      width: 220px;
+      margin-top: 10px;
+    }
+    .a1{
+        font-size: 14px;
+    }
+    .hd6{
+        display: flex;
+        justify-items: flex-start;
+        height: 200px;
+        width: 800px;
+    }
+    .hd7{
+        height: 40px;
+        width: 200px;
+        
+        
+    }
+    h2{
+        width: 800px;
+    }
+    .hd5{
+        display: flex;
+        align-items: flex-start;
+    }
+    .a1{
+    display:flex;
+    align-items: flex-end;
+    }
+    .hd9{
+        background-color: yellow;
+        color: black;
+        padding: 20px;
+        display:flex;
+        align-items: center;
+        width: 100%;
+    }
